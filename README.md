@@ -37,3 +37,7 @@ ExpenseTracker/
 3. Run the program.
 4. Enter the expense details when asked.
 5. Follow the options shown by the program.
+
+## GitHub Repository
+
+[View the project on GitHub](https://github.com/codesbysona/Expense-Tracker)
